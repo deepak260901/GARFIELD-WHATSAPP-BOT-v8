@@ -23,8 +23,8 @@ global.notice = ` *Hi 🥰 I m*
 *Not more..*
 *Also I am Student*
 *Follow My Facebook - https://www.facebook.com/profile.php?id=100015805215445*`  // 👈 Enter Your details and Social Media Links and Anything
-global.owner =  ['+919015286428','14356255293'] //👈  Enter Your number
-global.premium =  ['+919015286428','14356255293'] //👈  Enter Your number
+global.owner =  ['+919015286428','16472492374'] //👈  Enter Your number
+global.premium =  ['+919015286428','16472492374'] //👈  Enter Your number
 global.ownernomer = '+919015286428' //👈  Enter Your number
 global.ownername = '꧁⁣༒𓆩𝄞D⃟『E』E༙PཽA̸͟͞ꀗ𒀱ꪳ𓆪༒꧂' //👈 Enter Your name
 global.botname = 'G༙A༙P༙P༙U༙ ＢＯＴ' //👈 Enter Your Bot name
